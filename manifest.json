@@ -1,0 +1,12 @@
+{
+  "name" : "Seratonin Dose",
+  "manifest_version" : 3,
+  "version" : "1.0.0",
+   "description": "Random dog images",
+   "icons":{
+     "128" : "images/dog-img.png"
+   },
+    "action" : {
+      "default_popup": "index.html"
+    }
+}
